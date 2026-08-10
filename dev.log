@@ -2,4 +2,11 @@
 > tmp_app@0.1.0 dev
 > next dev
 
-sh: 1: next: not found
+⚠ Port 3000 is in use by an unknown process, using available port 3001 instead.
+▲ Next.js 16.3.0 (Turbopack)
+- Local:         http://localhost:3001
+- Network:       http://192.168.0.2:3001
+✓ Ready in 891ms
+✓ Running next.config.ts took 67ms
+
+ GET / 200 in 1676ms (next.js: 704ms, proxy.ts: 389ms, application-code: 583ms)
