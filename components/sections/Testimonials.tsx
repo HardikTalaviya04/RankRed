@@ -13,7 +13,7 @@ export function Testimonials() {
       role: "Chief Revenue Officer, Orbb"
     },
     {
-      quote: "We moderate and answer support without leaving ReddGrow.",
+      quote: "We moderate and answer support without leaving RankRed.",
       author: "Amit Caner",
       role: "Social Media Team Lead, CrownCoinsCasino"
     },

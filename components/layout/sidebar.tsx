@@ -27,7 +27,7 @@ export function Sidebar() {
   return (
     <div className="flex h-full w-64 flex-col border-r bg-white">
       <div className="flex h-16 items-center px-6 border-b">
-        <span className="text-xl font-bold text-gray-900">RedditGrowth</span>
+        <span className="text-xl font-bold text-gray-900">RankRed</span>
       </div>
       <div className="flex-1 overflow-y-auto py-4">
         <nav className="space-y-1 px-4">

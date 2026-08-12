@@ -1,9 +1,9 @@
-# RedditGrowth
+# RankRed
 
-AI-powered Reddit Growth Intelligence platform.
+AI-powered RankRed Intelligence platform.
 
 ## Overview
-RedditGrowth is a SaaS platform that helps founders, marketers, and growth teams discover valuable Reddit conversations, identify customer intent, analyze competitors, and turn insights into actionable marketing opportunities.
+RankRed is a SaaS platform that helps founders, marketers, and growth teams discover valuable Reddit conversations, identify customer intent, analyze competitors, and turn insights into actionable marketing opportunities.
 
 **Note:** This repository currently contains **Phase 1** implementation, focusing on the foundational SaaS architecture, multi-tenant database design, authentication, and core UI.
 

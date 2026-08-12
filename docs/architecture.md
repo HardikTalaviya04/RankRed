@@ -1,7 +1,7 @@
-# RedditGrowth Architecture
+# RankRed Architecture
 
 ## Overview
-RedditGrowth is an AI-powered Reddit Growth Intelligence platform designed to help founders and marketers discover valuable conversations and actionable insights.
+RankRed is an AI-powered RankRed Intelligence platform designed to help founders and marketers discover valuable conversations and actionable insights.
 
 ## Technology Stack
 - **Frontend**: Next.js 14 (App Router), TypeScript, Tailwind CSS, shadcn/ui.
