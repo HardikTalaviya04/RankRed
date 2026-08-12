@@ -7,7 +7,7 @@ export default function OnboardingPage() {
     <div className="flex min-h-screen items-center justify-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
       <Card className="w-full max-w-lg">
         <CardHeader>
-          <CardTitle>Welcome to RedditGrowth</CardTitle>
+          <CardTitle>Welcome to RankRed</CardTitle>
           <CardDescription>Let&apos;s set up your workspace to start discovering opportunities.</CardDescription>
         </CardHeader>
         <CardContent className="space-y-4">
